@@ -15,7 +15,7 @@ export default function Product() {
 
   useEffect(() => {
     axios
-      .post("http://localhost:9999/reviews/get", { product_id: id })
+      .post("https://fitpageassessment.onrender.com/reviews/get", { product_id: id })
       .then((res) => {
         if (res.data.status === "OK") {
           setReviews(res.data.data);
@@ -43,14 +43,14 @@ export default function Product() {
         };
 
         try {
-          const res = await axios.post("http://localhost:9999/reviews", payload);
+          const res = await axios.post("https://fitpageassessment.onrender.com/reviews", payload);
           if (res.data.status === "OK") {
             alert("review submited!");
             setReviewText("");
             setRating(0);
             setImageFile(null);
 
-            const fresh = await axios.post("http://localhost:9999/reviews/get", {
+            const fresh = await axios.post("https://fitpageassessment.onrender.com/reviews/get", {
               product_id: id,
             });
             setReviews(fresh.data.data);
@@ -73,14 +73,14 @@ export default function Product() {
       };
 
       try {
-        const res = await axios.post("http://localhost:9999/reviews", payload);
+        const res = await axios.post("https://fitpageassessment.onrender.com/reviews", payload);
         if (res.data.status === "OK") {
           alert("review submited!");
           setReviewText("");
           setRating(0);
           setImageFile(null);
 
-          const fresh = await axios.post("http://localhost:9999/reviews/get", {
+          const fresh = await axios.post("https://fitpageassessment.onrender.com/reviews/get", {
             product_id: id,
           });
           setReviews(fresh.data.data);
