@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "Dior Sauvage",
+      "brand": "Christian Dior",
+      "price": 8999,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A fresh, woody fragrance inspired by wide open spaces and rugged nature.",
+      "rating": 4.8,
+      "inStock": true
+    },
+    {
+      "id": 2,
+      "name": "Bleu de Chanel",
+      "brand": "Chanel",
+      "price": 9999,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A sophisticated blend of citrus and woods for a bold and refined scent.",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "id": 3,
+      "name": "Acqua di Gio",
+      "brand": "Giorgio Armani",
+      "price": 7599,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A refreshing aquatic fragrance with citrus and marine notes.",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "id": 4,
+      "name": "The One",
+      "brand": "Dolce & Gabbana",
+      "price": 8299,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A warm, spicy perfume that radiates masculinity and elegance.",
+      "rating": 4.4,
+      "inStock": false
+    },
+    {
+      "id": 5,
+      "name": "Invictus",
+      "brand": "Paco Rabanne",
+      "price": 7499,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A powerful scent blending marine accord and grapefruit with patchouli.",
+      "rating": 4.5,
+      "inStock": true
+    },
+    {
+      "id": 6,
+      "name": "1 Million",
+      "brand": "Paco Rabanne",
+      "price": 7899,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "An iconic spicy-leather fragrance with notes of blood mandarin and cinnamon.",
+      "rating": 4.6,
+      "inStock": true
+    },
+    {
+      "id": 7,
+      "name": "Terre d’Hermès",
+      "brand": "Hermès",
+      "price": 10499,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A bold, earthy scent inspired by the elements — orange, pepper, and wood.",
+      "rating": 4.7,
+      "inStock": true
+    },
+    {
+      "id": 8,
+      "name": "Eros",
+      "brand": "Versace",
+      "price": 8199,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A fragrance of love and passion with mint, green apple, and vanilla.",
+      "rating": 4.3,
+      "inStock": true
+    },
+    {
+      "id": 9,
+      "name": "Le Male",
+      "brand": "Jean Paul Gaultier",
+      "price": 7699,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A sensual blend of lavender, mint, and vanilla — masculine and fresh.",
+      "rating": 4.2,
+      "inStock": false
+    },
+    {
+      "id": 10,
+      "name": "L'Homme",
+      "brand": "Yves Saint Laurent",
+      "price": 8599,
+      "image": "https://www.lepalaisdesbricoles.com/26444-superlarge_default/large-dummy-perfume-bottle-gloria-vanderbilt.jpg",
+      "description": "A magnetic blend of bergamot, ginger, and vetiver for a clean masculine scent.",
+      "rating": 4.5,
+      "inStock": true
+    }
+  ]
+  
