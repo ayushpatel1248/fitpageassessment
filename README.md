@@ -110,6 +110,13 @@ Frontend runs on http://localhost:3000
 🧾 PostgreSQL Schema
 Run this once in your Render-hosted PostgreSQL DB:
 
+{
+  product_id: String,     // ID of the product being reviewed
+  review: String,         // Review text
+  rating: Number,         // Rating (1-5)
+  image: String           // (Optional) Image in base64
+}
+
 📡 API Endpoints
 Method	Endpoint	Description
 POST	/reviews	Submit a new review
